@@ -5,4 +5,4 @@
 * Sửa các biến ssid và password thành WiFi cần kết nối
 
 *Kết quả thu được*
-![image](Screenshot(525).png)
+![image](Screenshot (525).png)
