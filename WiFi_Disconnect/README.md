@@ -5,3 +5,4 @@
 * Sửa các biến ssid và password thành WiFi cần kết nối
 
 *Kết quả thu được*
+WiFi_Disconnect/Screenshot (525).png
